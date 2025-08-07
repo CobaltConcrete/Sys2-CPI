@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Main files
+/unsloth/notebooks/results
+/unsloth/datasets
+/unsloth/notebooks/llama.cpp
